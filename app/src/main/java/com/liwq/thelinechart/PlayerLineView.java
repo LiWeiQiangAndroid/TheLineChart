@@ -16,7 +16,9 @@ import java.util.List;
 
 
 /**
- * 折线图
+ * Created by： lwq.
+ * Created Time: 2019/3/28
+ * Description：不带阴影折线图
  */
 public class PlayerLineView extends View {
 
