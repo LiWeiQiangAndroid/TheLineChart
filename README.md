@@ -3,7 +3,7 @@
 
 ## 项目预览——效果图
 
-| ![](https://github.com/LiWeiQiangAndroid/TheLineChart/img/1553758906035.jpg?raw=true)  
+| ![](https://github.com/LiWeiQiangAndroid/TheLineChart/blob/master/img/1553758906035.jpg?raw=true)  
  
 ## License
 > Copyright (C) 2019 liwq.
