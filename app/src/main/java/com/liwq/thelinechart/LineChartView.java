@@ -155,7 +155,7 @@ public class LineChartView extends View {
         //画Y轴横线和文本
         for (int i = 0; i <= (yAisx.length - 1); i++) {
             canvas.drawLine(leftX, topY + ytemp * i, leftX + contentWidth, topY + ytemp * i, chartLinePaint);
-            canvas.drawText(yAisx[i], leftX / 2, topY + i * ytemp + dip2px(context, 3), textPaint);
+            canvas.drawText(yAisx[i], leftX/2+radius*2, topY + i * ytemp + dip2px(context, 3), textPaint);
         }
 
         //画Y轴
